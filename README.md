@@ -5,6 +5,12 @@ HEX2UIColor OS X Service lets you convert #RRGGBB (HEX) colour strings to UIColo
 
 This is useful for web developers (who are used to the #RRGGBB web colour format) working on Cocoa [Touch] applications, which requre colours to be defined in a specific UIColor format.
 
+Example:
+
+```
+#FEB157   →   [UIColor colorWithRed:0.996 green:0.694 blue:0.341 alpha:1]
+```
+
 ## Installation
 
 ### Easy way
