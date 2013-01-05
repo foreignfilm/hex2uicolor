@@ -1,7 +1,7 @@
-Hex2UIColor OS X Service
+HEX2UIColor OS X Service
 ===================
 
-HEX to UIColor OS X Service lets you convert #RRGGBB (HEX) colours to UIColor declarations, in two clicks, from your contextual menu.
+HEX2UIColor OS X Service lets you convert #RRGGBB (HEX) colour strings to UIColor declarations, in two clicks, from your contextual menu.
 
 This is useful for web developers (who are used to the #RRGGBB web colour format) working on Cocoa [Touch] applications, which requre colours to be defined in a specific UIColor format.
 
@@ -33,11 +33,11 @@ Replace the code with contents of `hex2uicolor.sh`.
 
 [pic 5]
 
-Save the workflow and give it a name of you liking. Done.
+Save the workflow and give it a name of your liking. Done.
 
 ## Usage
 
-Once the service is properly installed, the contextual menu of any selected text will contain the `HEX to UIColor` option. Click it. Given that the text is proper HEX colour value (hex2uicolor currently supports `#RRGGBB` and `RRGGBB` formats only), it will get replaced with a nice and clean UIColor declaration.
+Once the service is properly installed, the contextual menu of any selected text will contain the `HEX to UIColor` option. Click it. Given that the text is a proper HEX colour value (*hex2uicolor* currently supports `#RRGGBB` and `RRGGBB` formats only), it will get replaced with a nice and clean UIColor declaration.
 
 ## License
 
