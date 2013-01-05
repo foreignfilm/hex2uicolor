@@ -9,7 +9,7 @@ This is useful for web developers (who are used to the #RRGGBB web colour format
 
 ### Easy way
 
-Download the `.workflow` file here: [link]. Drag and drop it into your `~/Libraries/Services/` directory. Done.
+Download [this repo’s ZIP](https://github.com/egukin/hex2uicolor/archive/master.zip) and grab the `.workflow` file here. Drag and drop it into your `~/Libraries/Services/` directory. Done.
 
 ### Geek way
 
