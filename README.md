@@ -15,29 +15,29 @@ Download [this repo’s ZIP](https://github.com/egukin/hex2uicolor/archive/maste
 
 Grab the latest code from this repo (`hex2uicolor.sh`). Launch Automator and choose to create a new Service.
 
-[pic 1]
+![pic 1](http://f.cl.ly/items/0Y3Z0a13370n2t0Z2J0w/Screen%20Shot%202013-01-05%20at%206.35.08%20PM.png)
 
 Make sure to tick `Output replaces selected text`.
 
-[pic 2]
+![pic 2](http://f.cl.ly/items/2Z3Z0r2x1j3Z3L352s0a/Screen%20Shot%202013-01-05%20at%206.35.28%20PM.png)
 
 Search for the `Run Shell Script` action in the sidebar.
 
-[pic 3]
+![pic 3](http://f.cl.ly/items/0G1P112o1j0e0E3E0j3n/Screen%20Shot%202013-01-05%20at%206.41.26%20PM.png)
 
 Drag and drop the action into the main area. Make sure to select the `/bin/bash` shell and change `Pass input` to `as arguments`.
 
-[pic 4]
+![pic 4](http://f.cl.ly/items/3k3D0n0K1b0R3M0w0K2V/Screen%20Shot%202013-01-05%20at%206.41.39%20PM.png)
 
 Replace the code with contents of `hex2uicolor.sh`.
 
-[pic 5]
+![pic 5](http://f.cl.ly/items/0L2b2X212m3W1m1v2i1R/Screen%20Shot%202013-01-05%20at%206.42.04%20PM.png)
 
 Save the workflow and give it a name of your liking. Done.
 
 ## Usage
 
-Once the service is properly installed, the contextual menu of any selected text will contain the `HEX to UIColor` option. Click it. Given that the text is a proper HEX colour value (*hex2uicolor* currently supports `#RRGGBB` and `RRGGBB` formats only), it will get replaced with a nice and clean UIColor declaration.
+Once the service is properly installed, the contextual menu of any selected text will contain the `HEX to UIColor` option. Click it. Given that the text is a proper HEX colour value (hex2uicolor currently supports `#RRGGBB` and `RRGGBB` formats only), it will get replaced with a nice and clean UIColor declaration.
 
 ## License
 
