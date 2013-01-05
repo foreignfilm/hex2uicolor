@@ -3,7 +3,7 @@
 for f in "$@"
 do
 
-  # delete the preceding hash, if it’s there
+	# delete the preceding hash, if it’s there
 	value=${f#\#}
 
 	# extract the fragments of the original HEX code
